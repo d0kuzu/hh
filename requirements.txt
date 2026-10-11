@@ -1,0 +1,7 @@
+selenium>=4.30,<5
+openai>=2,<3
+python-dotenv>=1.0,<2
+requests>=2.32,<3
+filelock>=3.16,<4
+tzdata>=2025.1
+
